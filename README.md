@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @absurdlyhard
-- 📫 How to reach me by dropping an email to marcel.carne@yahoo.com
+- 📫 Contact me by dropping an email to masoud.nasouti@gmail.com
 
 <!---
 absurdlyhard/absurdlyhard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
