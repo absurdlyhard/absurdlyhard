@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @absurdlyhard
+- 👋 Hi, My name is Masoud.
 - 📫 Contact me by dropping an email to masoud.nasouti@gmail.com
 
 <!---
